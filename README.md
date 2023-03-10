@@ -1,6 +1,10 @@
 # JAVA-Clase3Ej2
+## Ejemplo 2 del Tutorial de JAVA Clase 3
 
-Ejemplo 2 del apunte de [JAVA Clase 3](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA3.pdf).
-<ul>
-  <li> Excepciones en JAVA</li>
-</ul>
+  * Excepciones en JAVA
+
+## Apunte Clase Teórica JAVA 3
+[JAVA-Clase3](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA3.pdf)
+
+## Licencia
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
